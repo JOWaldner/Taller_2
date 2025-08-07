@@ -26,6 +26,7 @@ def load_data():
 
     # Cambio-1
     #Cambio
+    #Cambio de Alberto-Uniandes
     df = pd.read_csv("datos_energia.csv")
 
     # Convertir la columna de fecha a formato datetime
