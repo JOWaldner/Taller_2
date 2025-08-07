@@ -24,7 +24,7 @@ def load_data():
     # To do: Completar la función 
     # Cargar el archivo CSV
 
-    # Cambio
+    # Cambio-1
     #Cambio
     df = pd.read_csv("datos_energia.csv")
 
